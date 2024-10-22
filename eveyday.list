@@ -1,0 +1,22 @@
+# 由再比比不奶你维护 20241022
+# XPYV欧乐影视
+DOMAIN-SUFFIX,olemovienews.com
+# APTV直播源
+DOMAIN-KEYWORD,tv.iill.top
+# 有连机场
+DOMAIN-KEYWORD,youlian400.org
+# XPTV瓜子
+DOMAIN-KEYWORD,9cec79d.com
+# XPTV-独播库
+DOMAIN-KEYWORD,gboku
+DOMAIN-KEYWORD,duboku
+DOMAIN-KEYWORD,6tm.wdubo.com
+DOMAIN-KEYWORD,ndubo.com
+DOMAIN-KEYWORD,nboku
+# 牢大EMBY
+DOMAIN-KEYWORD,emby-micax-ca-v2.mius.uk
+DOMAIN-KEYWORD,emby-mica-us-v1.mius.uk
+# 夜煞云
+DOMAIN-KEYWORD,client.night-furyx.com
+
+
