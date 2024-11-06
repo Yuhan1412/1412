@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,olemovienews.com
 DOMAIN-KEYWORD,tv.iill.top
 # 有连机场
 DOMAIN-KEYWORD,youlian
+DOMAIN-KEYWORD,xn--8ovw22g.com
 # XPTV瓜子
 DOMAIN-KEYWORD,9cec79d.com
 # XPTV-独播库
@@ -13,6 +14,7 @@ DOMAIN-KEYWORD,duboku
 DOMAIN-KEYWORD,6tm.wdubo.com
 DOMAIN-KEYWORD,ndubo.com
 DOMAIN-KEYWORD,nboku
+DOMAIN-KEYWORD,aliyuncs
 # 牢大EMBY
 DOMAIN-KEYWORD,emby-micax-ca-v2.mius.uk
 DOMAIN-KEYWORD,emby-mica-us-v1.mius.uk
