@@ -31,7 +31,7 @@ DOMAIN, qimgs.qunarzz.com
 DOMAIN, lf16-fe.resso.me
 DOMAIN-SUFFIX, akamaized.net
 DOMAIN, t001.czzy.fun
-DOMAIN, vunyundun.czys.art, DIRECT
-DOMAIN-SUFFIX, larksuitecdn.com, DIRECT
-DOMAIN, dc.xhscdn.com, DIRECT
-DOMAIN, mdn.alipayobjects.com, DIRECT
+DOMAIN, vunyundun.czys.art
+DOMAIN-SUFFIX, larksuitecdn.com
+DOMAIN, dc.xhscdn.com
+DOMAIN, mdn.alipayobjects.com
