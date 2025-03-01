@@ -15,6 +15,11 @@ DOMAIN-KEYWORD,6tm.wdubo.com
 DOMAIN-KEYWORD,ndubo.com
 DOMAIN-KEYWORD,nboku
 DOMAIN-KEYWORD,aliyuncs
+DOMAIN-KEYWORD,kdubo.com
+DOMAIN-KEYWORD,vdubo.com
+DOMAIN-KEYWORD,xdubo.com
+DOMAIN-KEYWORD,tdubo.com
+DOMAIN-KEYWORD,yboku.com
 # 牢大EMBY
 DOMAIN-KEYWORD,emby-micax-ca-v2.mius.uk
 DOMAIN-KEYWORD,emby-mica-us-v1.mius.uk
@@ -33,4 +38,4 @@ DOMAIN-SUFFIX, larksuitecdn.com
 DOMAIN, dc.xhscdn.com
 # XPTV-影视天堂
 DOMAIN, ysttv.com
-DOMAIN-SUFFIX, 7dgirl.org
+DOMAIN-KEYWORD, 7dgirl.org
