@@ -1,1 +1,5 @@
-1
+# 再比比不奶你-自建规则集- DIRECT（直连）
+
+[frontmatter]
+  lastmod = [":git", "lastmod", ":fileModTime"]
+# 由再比比不奶你维护 20250304
