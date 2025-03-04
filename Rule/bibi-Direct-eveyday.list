@@ -1,5 +1,14 @@
 # 再比比不奶你-自建规则集- DIRECT（直连）
 
-[frontmatter]
-  lastmod = [":git", "lastmod", ":fileModTime"]
+
 # 由再比比不奶你维护 20250304
+
+
+# 获取 git 仓库中所有文件的最新修改时间
+$ git ls-tree -r --name-only HEAD | while read filename; do
+> echo "$(git log -1 --pretty=format:"%ad" -- $filename) $filename";
+> done
+# 获取 git 仓库中所有文件的最初创建时间
+$ git ls-tree -r --name-only HEAD | while read filename; do
+> echo "$(git log --pretty=format:"%ad" -- $filename | tail -1) $filename";
+> done
