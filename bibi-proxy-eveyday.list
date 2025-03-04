@@ -24,6 +24,7 @@ DOMAIN-KEYWORD,jboku.com
 DOMAIN-KEYWORD,wboku.com
 DOMAIN-KEYWORD,qboku.com
 DOMAIN-KEYWORD,uhibo.com
+DOMAIN-KEYWORD,uhibo.com
 # 牢大EMBY
 DOMAIN-KEYWORD,emby-micax-ca-v2.mius.uk
 DOMAIN-KEYWORD,emby-mica-us-v1.mius.uk
@@ -43,3 +44,7 @@ DOMAIN, dc.xhscdn.com
 # XPTV-影视天堂
 DOMAIN, ysttv.com
 DOMAIN-KEYWORD, 7dgirl.org
+# famliy合集
+DOMAIN-KEYWORD, whatshub.top
+#githubusercontent js链接更新 
+DOMAIN-KEYWORD, githubusercontent.com
