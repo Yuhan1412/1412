@@ -1,15 +1,45 @@
-# 由再比比不奶你维护 20241022
+# 由再比比不奶你维护 20250304
+# XPYV欧乐影视
 DOMAIN-SUFFIX,olemovienews.com
+# APTV直播源
 DOMAIN-KEYWORD,tv.iill.top
-DOMAIN-KEYWORD,youlian400.org
+# 有连机场
+DOMAIN-KEYWORD,youlian
+DOMAIN-KEYWORD,xn--8ovw22g.com
+# XPTV瓜子
 DOMAIN-KEYWORD,9cec79d.com
+# XPTV-独播库
 DOMAIN-KEYWORD,gboku
 DOMAIN-KEYWORD,duboku
 DOMAIN-KEYWORD,6tm.wdubo.com
 DOMAIN-KEYWORD,ndubo.com
 DOMAIN-KEYWORD,nboku
+DOMAIN-KEYWORD,aliyuncs
+DOMAIN-KEYWORD,kdubo.com
+DOMAIN-KEYWORD,vdubo.com
+DOMAIN-KEYWORD,xdubo.com
+DOMAIN-KEYWORD,tdubo.com
+DOMAIN-KEYWORD,yboku.com
+DOMAIN-KEYWORD,jboku.com
+DOMAIN-KEYWORD,wboku.com
+DOMAIN-KEYWORD,qboku.com
+DOMAIN-KEYWORD,uhibo.com
+# 牢大EMBY
 DOMAIN-KEYWORD,emby-micax-ca-v2.mius.uk
 DOMAIN-KEYWORD,emby-mica-us-v1.mius.uk
+# 夜煞云
 DOMAIN-KEYWORD,client.night-furyx.com
-
-
+# XPTV-爱壹帆
+DOMAIN-KEYWORD,ghp.xptvhelper.link
+# XPTV-厂长主页
+DOMAIN,www.czzyvideo.com
+DOMAIN,qimgs.qunarzz.com
+DOMAIN,lf16-fe.resso.me
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN,t001.czzy.fun
+DOMAIN,vunyundun.czys.art
+DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN,dc.xhscdn.com
+# XPTV-影视天堂
+DOMAIN,ysttv.com
+DOMAIN-KEYWORD,7dgirl.org
