@@ -33,18 +33,18 @@ DOMAIN-KEYWORD,client.night-furyx.com
 # XPTV-爱壹帆
 DOMAIN-KEYWORD,ghp.xptvhelper.link
 # XPTV-厂长主页
-DOMAIN, www.czzyvideo.com
-DOMAIN, qimgs.qunarzz.com
-DOMAIN, lf16-fe.resso.me
-DOMAIN-SUFFIX, akamaized.net
-DOMAIN, t001.czzy.fun
-DOMAIN, vunyundun.czys.art
-DOMAIN-SUFFIX, larksuitecdn.com
-DOMAIN, dc.xhscdn.com
+DOMAIN,www.czzyvideo.com
+DOMAIN,qimgs.qunarzz.com
+DOMAIN,lf16-fe.resso.me
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN,t001.czzy.fun
+DOMAIN,vunyundun.czys.art
+DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN,dc.xhscdn.com
 # XPTV-影视天堂
-DOMAIN, ysttv.com
-DOMAIN-KEYWORD, 7dgirl.org
+DOMAIN,ysttv.com
+DOMAIN-KEYWORD,7dgirl.org
 # famliy合集
-DOMAIN-KEYWORD, whatshub.top
+DOMAIN-KEYWORD,whatshub.top
 # githubusercontent链接更新 
-DOMAIN-KEYWORD, githubusercontent.com
+DOMAIN-KEYWORD,githubusercontent.com
