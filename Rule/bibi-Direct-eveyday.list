@@ -3,6 +3,7 @@
 
 # IPV6测试网站
 DOMAIN-KEYWORD,test-ipv6.com
+DOMAIN-SUFFIX,test-ipv6
 # 腾讯云内网穿透域名
 DOMAIN-KEYWORD,yushuiwang.chat
 # ShadowRocket懒人配置网页
