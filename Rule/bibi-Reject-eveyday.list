@@ -1,1 +1,8 @@
-1
+host, api-dsp.8ziben.com, reject
+host,sdk.zhangyuyidong.cn,reject
+^http:\/\/nbtool8\.com:9527\/nb\/app url reject-200
+DOMAIN,open.e.kuaishou.cn,REJECT
+DOMAIN,v66-ad.ndcjl.com,REJECT
+DOMAIN,api-events.8ziben.com,REJECT
+DOMAIN-SUFFIX,yximgs.com,REJECT
+DOMAIN-SUFFIX,adkwai.com,REJECT
