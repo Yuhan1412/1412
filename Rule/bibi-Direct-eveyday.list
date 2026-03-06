@@ -8,3 +8,8 @@ DOMAIN-SUFFIX,test-ipv6
 DOMAIN-KEYWORD,yushuiwang.chat
 # ShadowRocket懒人配置网页
 DOMAIN-SUFFIX,noiseblogs.top
+# Speedtest直连测速
+DOMAIN-SUFFIX,www.speedtest.net
+# Jstv加载
+DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,www.miqk.cc
